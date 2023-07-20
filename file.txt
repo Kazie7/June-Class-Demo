@@ -1,1 +1,2 @@
-This is git bash
+This is git bash 
+and I'm going to succeed with it
